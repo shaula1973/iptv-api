@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-30 18:32:58,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
+2025-10-01 06:27:51,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 
 📺央视频道,#genre#
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
@@ -11,34 +11,8 @@ CETV2,https://cc06.tv12.xyz/24.m3u8
 电视指南,https://cc06.tv12.xyz/39.m3u8
 
 📡卫视频道,#genre#
-广东卫视,https://cc06.tv12.xyz/43.m3u8
-浙江卫视,https://cc06.tv12.xyz/117.m3u8
-湖南卫视,https://cc06.tv12.xyz/57.m3u8
-北京卫视,https://cc06.tv12.xyz/27.m3u8
-湖北卫视,https://cc06.tv12.xyz/50.m3u8
-黑龙江卫视,https://cc06.tv12.xyz/53.m3u8
-安徽卫视,https://cc06.tv12.xyz/26.m3u8
-重庆卫视,https://cc06.tv12.xyz/34.m3u8
-东方卫视,https://cc06.tv12.xyz/37.m3u8
-东南卫视,https://cc06.tv12.xyz/38.m3u8
-甘肃卫视,https://cc06.tv12.xyz/44.m3u8
-广西卫视,https://cc06.tv12.xyz/46.m3u8
-贵州卫视,https://cc06.tv12.xyz/48.m3u8
-海南卫视,https://cc06.tv12.xyz/93.m3u8
 河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
-河北卫视,https://cc06.tv12.xyz/51.m3u8
-河南卫视,https://cc06.tv12.xyz/49.m3u8
-吉林卫视,https://cc06.tv12.xyz/60.m3u8
-江苏卫视,https://cc06.tv12.xyz/61.m3u8
-江西卫视,https://cc06.tv12.xyz/62.m3u8
-青海卫视,https://cc06.tv12.xyz/97.m3u8
-山东卫视,https://cc06.tv12.xyz/101.m3u8
-山西卫视,https://cc06.tv12.xyz/107.m3u8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
-陕西卫视,https://cc06.tv12.xyz/106.m3u8
-四川卫视,https://cc06.tv12.xyz/99.m3u8
-深圳卫视,https://cc06.tv12.xyz/108.m3u8
-云南卫视,https://cc06.tv12.xyz/114.m3u8
 
 ☘️浙江频道,#genre#
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
@@ -52,15 +26,16 @@ CETV2,https://cc06.tv12.xyz/24.m3u8
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed
+缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed&quot;
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
@@ -70,9 +45,8 @@ CETV2,https://cc06.tv12.xyz/24.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
-文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=
-文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 开化新闻综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
