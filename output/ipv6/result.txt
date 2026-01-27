@@ -1,9 +1,7 @@
 🕘️更新时间,#genre#
-2026-01-27 06:34:10,https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392bae373bd81ba8f267bc2ab7ff065b93c9b9e9674236b624bab04f3f6a2e4d12149cfe81b19760c763b8fba1369d0d4092281bada4eff6ba6d823c0c43e451911f5b20872
+2026-01-28 06:32:17,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 
 📺央视频道,#genre#
-CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392bae373bd81ba8f267bc2ab7ff065b93c9b9e9674236b624bab04f3f6a2e4d12149cfe81b19760c763b8fba1369d0d4092281bada4eff6ba6d823c0c43e451911f5b20872
-CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027ec08213b2a5beffae7f99e3e556123f72b08c8d0bedb77620cbbc5d72108ff458b15f605abc992ccdc991b35dd34802a57ca114b8f7875c9bce1ddfe5bd6775f12be875a
 
 💰央视付费频道,#genre#
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
@@ -20,7 +18,6 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027e
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-浙江遂昌,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 诸暨新闻综合,https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
@@ -35,7 +32,6 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027e
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
 新昌生活,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 新昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=
@@ -53,7 +49,6 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ecd60d6a580d9f4027e
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
-上海新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?sign=baf4677a556e411a7e3639bda66eca0f&tm=1757355490&token=a88466c8c0d3788d333987df991cb29c1bbdcede9924a8d3026202c22940b447704ff2c9123c66b2c48ec34b9f837524f69b99aff7581076d033af2d938587885b364200fd4b1194f2dea477e1
 
 🌊港·澳·台,#genre#
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
